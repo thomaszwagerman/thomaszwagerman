@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there ????,
+# [(banner/nz_image.jpg)]
+
+banner/nz_image.jpg
+### Hi there,
 
 My name is Thomas Zwagerman. I'm a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/).
 
