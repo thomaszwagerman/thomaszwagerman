@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thomaszwagerman/thomaszwagerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Hi there ????,
+### Hi there ????,
 
 My name is Thomas Zwagerman. I'm a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/).
 
@@ -23,5 +21,5 @@ I mainly work on spatial modelling of emissions and air pollutants. I'm responsi
 
 Sadly I cannot show all of my repositories, because I often work with sensitive/disclosive data.
 
-###How to reach me 
+### How to reach me 
 I am on [Twitter](https://twitter.com/thomzwa) and [LinkedIn](https://www.linkedin.com/in/thomaszwagerman/). I also have my own [blog](https://tzwagerman.netlify.app/) with ocassional side projects outwith the realm of environmental science.
