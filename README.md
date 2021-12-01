@@ -2,7 +2,7 @@
 
 ## Hi there :wave:,
 
-My name is Thomas Zwagerman. I'm a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/).
+My name is Thomas Zwagerman. I'm an **Environmental Data Scientist** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/).
 
 ## :deciduous_tree: Current work.
 I mainly work on spatial modelling of emissions and air pollutants. I'm responsible for the data management, manipulation and visualisation of spatial data.
