@@ -9,7 +9,7 @@ I develop tools and processes for the automated processing and quality assurance
 
 My previous role at UKCEH was as a Spatial Data Analyst, where I developed skills in using spatial data formats and software.
 
-## :building_construction: Programming languages and GIS tools:
+## :building_construction: Programming languages and tools:
 I use R for almost everything, with sometimes a bit of Python. Other tools I use as required are Jinja, JavaScript, CSS & HTML.
 
 ## :earth_africa: Socials & Website:
