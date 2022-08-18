@@ -2,7 +2,9 @@
 
 ## Hi there :wave:,
 
-My name is Thomas Zwagerman. I'm a **Data Intelligence Officer** at the [Suffolk County Council](https://www.suffolk.gov.uk/). I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/), where I developed tools and processes for the automated processing and quality assurance of air quality and climate change datasets, as well as developed interactive dissemination tools and reports for customers and stakeholders.
+My name is Thomas Zwagerman. I'm a **Data Intelligence Officer** at the [Suffolk County Council](https://www.suffolk.gov.uk/). 
+
+I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/), where I developed tools and processes for the automated processing and quality assurance of air quality and climate change datasets, as well as developed interactive dissemination tools and reports for customers and stakeholders.
 
 ## :building_construction: Programming languages and tools:
 I use R for almost everything, with sometimes a bit of Python. Other tools I use as required are Jinja, JavaScript, CSS & HTML.
