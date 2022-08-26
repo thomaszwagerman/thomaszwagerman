@@ -9,5 +9,17 @@ I previously worked as an **Environmental Data Scientist** and as a **Spatial Da
 ## :building_construction: Programming languages and tools:
 I use R for almost everything, with sometimes a bit of Python. Other tools I use as required are Jinja, JavaScript, CSS & HTML.
 
+In R I have the follow experience:
+
+* Shiny Development, using the [golem framework](https://thinkr-open.github.io/golem/) to develop applications as a package, writing [modular applications](https://mastering-shiny.org/scaling-modules.html) for scalable applications and writing unit tests with [shinytest2](https://rstudio.github.io/shinytest2/).
+  
+* Writing [plumber](https://www.rplumber.io/) APIs and leveraging web APIs with [httr](https://httr.r-lib.org/).
+
+* Automating workflows using [RStudio Connect](https://www.rstudio.com/products/connect/) and [pins](https://github.com/rstudio/pins-r) (I am a contributor on the pins package).
+
+* Writing scientific and technical documents in [distill](https://rstudio.github.io/distill/) and [quarto](https://quarto.org/).
+
+* Spatial Data manipulation and visualisation with [sf](https://r-spatial.github.io/sf/), [terra](https://github.com/rspatial/terra), [leaflet](https://rstudio.github.io/leaflet/) and other relevant packages.
+
 ## :earth_africa: Socials & Website:
 I am on [Twitter](https://twitter.com/thomzwa) and [LinkedIn](https://www.linkedin.com/in/thomaszwagerman/). I also have my own [blog](https://tzwagerman.netlify.app/) with ocassional side projects. The blog is made with [distill](https://rstudio.github.io/distill/) and you can find the [repository](https://github.com/thomaszwagerman/tz_web_distill) on my page.
