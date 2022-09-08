@@ -11,7 +11,7 @@ I use R for almost everything, with sometimes a bit of Python. Other tools I use
 
 In R I have the follow experience:
 
-* Shiny Development, using the [golem framework](https://thinkr-open.github.io/golem/) to develop applications as a package, writing [modules](https://mastering-shiny.org/scaling-modules.html) for scalable applications and writing unit tests with [shinytest2](https://rstudio.github.io/shinytest2/).
+* Shiny Development, using the [golem framework](https://thinkr-open.github.io/golem/) to develop applications as a package, writing [modules](https://mastering-shiny.org/scaling-modules.html) for scalable applications and writing unit tests with [testthat](https://testthat.r-lib.org/) and [shinytest2](https://rstudio.github.io/shinytest2/).
   
 * Writing [plumber](https://www.rplumber.io/) APIs and leveraging web APIs with [httr](https://httr.r-lib.org/).
 
