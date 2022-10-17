@@ -15,7 +15,7 @@ In R I have the follow experience:
   
 * Writing [plumber](https://www.rplumber.io/) APIs and leveraging web APIs with [httr](https://httr.r-lib.org/).
 
-* Automating workflows using [RStudio Connect](https://www.rstudio.com/products/connect/) and [pins](https://github.com/rstudio/pins-r) (I am a contributor on the pins package).
+* Automating workflows using [RStudio Connect](https://www.rstudio.com/products/connect/) and [pins](https://github.com/rstudio/pins-r).
 
 * Writing scientific and technical documents in [distill](https://rstudio.github.io/distill/) and [quarto](https://quarto.org/).
 
