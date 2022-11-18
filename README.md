@@ -7,9 +7,9 @@ My name is Thomas Zwagerman. I'm a **Data Intelligence Officer** at the [Suffolk
 I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/), where I developed tools and processes for the automated processing and quality assurance of air quality and climate change datasets, as well as developed interactive dissemination tools and reports for customers and stakeholders.
 
 ## :building_construction: Programming languages and tools:
-I use R for almost everything, with sometimes a bit of Python. Other tools I use as required are Jinja, JavaScript, CSS & HTML.
+I use R for almost everything, with sometimes a bit of Python. Other tools I use as required are the Jinja2 templating language and JavaScript/CSS/HTML for web development-related work.
 
-In R I have the follow experience:
+I have the follow experience:
 
 * Shiny Development, using the [golem framework](https://thinkr-open.github.io/golem/) to develop applications as a package, writing [modules](https://mastering-shiny.org/scaling-modules.html) for scalable applications and writing unit tests with [testthat](https://testthat.r-lib.org/) and [shinytest2](https://rstudio.github.io/shinytest2/).
   
@@ -17,7 +17,7 @@ In R I have the follow experience:
 
 * Automating workflows using [RStudio Connect](https://www.rstudio.com/products/connect/) and [pins](https://github.com/rstudio/pins-r).
 
-* Writing scientific and technical documents in [distill](https://rstudio.github.io/distill/) and [quarto](https://quarto.org/).
+* Writing scientific and technical documents in [rmarkdown](https://rmarkdown.rstudio.com/), [distill](https://rstudio.github.io/distill/) and [quarto](https://quarto.org/), including creating company brand templates with HTML & CSS (see my [scctemplate](https://github.com/SCC-Planning/scctemplate) package).
 
 * Spatial Data manipulation and visualisation with [sf](https://r-spatial.github.io/sf/), [terra](https://github.com/rspatial/terra), [leaflet](https://rstudio.github.io/leaflet/) and other relevant packages.
 
