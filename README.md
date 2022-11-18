@@ -15,9 +15,9 @@ I have the follow experience:
   
 * Writing [plumber](https://www.rplumber.io/) APIs and leveraging web APIs with [httr](https://httr.r-lib.org/).
 
-* Automating workflows using [RStudio Connect](https://www.rstudio.com/products/connect/) and [pins](https://github.com/rstudio/pins-r).
+* Automating workflows using [RStudio Connect](https://www.rstudio.com/products/connect/) and [pins](https://github.com/rstudio/pins-r) or Github Actions.
 
-* Writing scientific and technical documents in [rmarkdown](https://rmarkdown.rstudio.com/), [distill](https://rstudio.github.io/distill/) and [quarto](https://quarto.org/), including creating company brand templates with HTML & CSS (see my [scctemplate](https://github.com/SCC-Planning/scctemplate) package).
+* Writing scientific and technical report and publishing websites in [rmarkdown](https://rmarkdown.rstudio.com/), [distill](https://rstudio.github.io/distill/) and [quarto](https://quarto.org/), including creating company brand templates with HTML & CSS (see my [scctemplate](https://github.com/SCC-Planning/scctemplate) package).
 
 * Spatial Data manipulation and visualisation with [sf](https://r-spatial.github.io/sf/), [terra](https://github.com/rspatial/terra), [leaflet](https://rstudio.github.io/leaflet/) and other relevant packages.
 
