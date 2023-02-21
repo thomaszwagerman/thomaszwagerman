@@ -6,7 +6,7 @@ My name is Thomas Zwagerman. I'm a **Data Intelligence Officer** at the [Suffolk
 
 I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/), where I developed tools and processes for the automated processing and quality assurance of air quality and climate change datasets, as well as developed interactive dissemination tools and reports for customers and stakeholders.
 
-I graduated with a BSc in Ecology & Environmental Sciences from the University of Edinburgh in 2018. I wrote my dissertation on vegetation change impact on Arctic land-atmosphere interactions and snowmelt. Using a Weather Research and Forecasting (WRF) model I examined data across spatial and temporal scales.
+I graduated with a BSc in Ecology & Environmental Sciences from the University of Edinburgh in 2018. I wrote my dissertation on vegetation change impact on Arctic land-atmosphere interactions and snowmelt. Using the Weather Research and Forecasting (WRF) model I examined data across spatial and temporal scales.
 
 ## :building_construction: Programming languages and tools:
 I use R for almost everything, with sometimes a bit of Python. Other tools I use as required are the Jinja2 templating language and JavaScript/CSS/HTML for web development-related work.
