@@ -25,3 +25,12 @@ I have the following experience:
 
 ## :earth_africa: Socials & Website:
 I am on [Twitter](https://twitter.com/thomzwa) and [LinkedIn](https://www.linkedin.com/in/thomaszwagerman/). I also have my own [blog](https://tzwagerman.netlify.app/) with ocassional side projects. The blog is made with [distill](https://rstudio.github.io/distill/) and you can find the [repository](https://github.com/thomaszwagerman/tz_web_distill) on my page.
+
+## :books: Resources I use:
+My first stepts in R were at the [Coding Club](https://ourcodingclub.github.io/). 
+
+Currently my favourite R books are [Mastering Shiny by Hadley Wickham](https://mastering-shiny.org/) and [Efficient R programming by Colin Gillespie and Robin Lovelace](https://csgillespie.github.io/efficientR/). 
+
+When I worked as a Spatial Data Analyst, I learned most of my spatial R from [Geocomputation with R by Robin Lovelace](https://geocompr.robinlovelace.net/). 
+
+I've taught as an instructor on [Transforming Environmental Data in R](https://www.ceh.ac.uk/training/transforming-environmental-data-r) - I learned a lot from teaching!
