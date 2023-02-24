@@ -29,8 +29,10 @@ I am on [Twitter](https://twitter.com/thomzwa) and [LinkedIn](https://www.linked
 ## :books: Resources I use:
 My first stepts in R were at the [Coding Club](https://ourcodingclub.github.io/). 
 
-Currently my favourite R books are [Mastering Shiny by Hadley Wickham](https://mastering-shiny.org/) and [Efficient R programming by Colin Gillespie and Robin Lovelace](https://csgillespie.github.io/efficientR/). 
-
-When I worked as a Spatial Data Analyst, I learned most of my spatial R from [Geocomputation with R by Robin Lovelace](https://geocompr.robinlovelace.net/). 
-
-I've taught as an instructor on [Transforming Environmental Data in R](https://www.ceh.ac.uk/training/transforming-environmental-data-r) - I learned a lot from teaching!
+A list of reference books I use frequently in no particular order: 
+* [Mastering Shiny by Hadley Wickham](https://mastering-shiny.org/)  
+* [Efficient R programming by Colin Gillespie and Robin Lovelace](https://csgillespie.github.io/efficientR/). 
+* [R Packages by Hadley Wickham and Jenny Bryan](https://r-pkgs.org/)
+* [Engineering Production-Grade Shiny Apps by Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard](https://engineering-shiny.org/index.html)
+* [Geocomputation with R by Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/). 
+* [R for Data Science by Hadley Wickham and Garrett Grolemund](https://r4ds.had.co.nz/)
