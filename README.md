@@ -30,9 +30,9 @@ I am on [Twitter](https://twitter.com/thomzwa) and [LinkedIn](https://www.linked
 My first stepts in R were at the [Coding Club](https://ourcodingclub.github.io/). 
 
 A list of reference books I use frequently in no particular order: 
-* [Mastering Shiny by Hadley Wickham](https://mastering-shiny.org/)  
-* [Efficient R programming by Colin Gillespie and Robin Lovelace](https://csgillespie.github.io/efficientR/). 
-* [R Packages by Hadley Wickham and Jenny Bryan](https://r-pkgs.org/)
-* [Engineering Production-Grade Shiny Apps by Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard](https://engineering-shiny.org/index.html)
-* [Geocomputation with R by Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/). 
-* [R for Data Science by Hadley Wickham and Garrett Grolemund](https://r4ds.had.co.nz/)
+* [Mastering Shiny](https://mastering-shiny.org/) by Hadley Wickham.
+* [Efficient R programming](https://csgillespie.github.io/efficientR/) by Colin Gillespie and Robin Lovelace.
+* [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
+* [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/index.html) by Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard.
+* [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
+* [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund.
