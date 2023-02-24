@@ -9,7 +9,7 @@ I previously worked as an **Environmental Data Scientist** and as a **Spatial Da
 Away from work I'm (slowly) working on my Shiny application [fplboard](https://tzwagerman.shinyapps.io/fplboard/).
 
 ## :building_construction: Programming languages and tools:
-I use R for almost everything, with sometimes a bit of Python. Other tools I use as required are the Jinja2 templating language and JavaScript/CSS/HTML for web development-related work.
+I use R for almost everything, with sometimes a bit of Python and more and more of JS/CSS/HTML.
 
 I have the following experience:
 
