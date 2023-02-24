@@ -11,7 +11,7 @@ I graduated with a BSc in Ecology & Environmental Sciences from the University o
 ## :building_construction: Programming languages and tools:
 I use R for almost everything, with sometimes a bit of Python. Other tools I use as required are the Jinja2 templating language and JavaScript/CSS/HTML for web development-related work.
 
-I have the follow experience:
+I have the following experience:
 
 * Shiny Development, using the [golem framework](https://thinkr-open.github.io/golem/) to develop applications as a package, writing [modules](https://mastering-shiny.org/scaling-modules.html) for scalable applications and writing unit tests with [testthat](https://testthat.r-lib.org/) and [shinytest2](https://rstudio.github.io/shinytest2/).
   
