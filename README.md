@@ -24,7 +24,7 @@ I have the following experience:
 * Spatial Data manipulation and visualisation with [sf](https://r-spatial.github.io/sf/), [terra](https://github.com/rspatial/terra), [leaflet](https://rstudio.github.io/leaflet/) and other relevant packages.
 
 ## :earth_africa: Socials & Website:
-I am on [Twitter](https://twitter.com/thomzwa) and [LinkedIn](https://www.linkedin.com/in/thomaszwagerman/). I also have my own [blog](https://tzwagerman.netlify.app/) with ocassional side projects. The blog is made with [distill](https://rstudio.github.io/distill/) and you can find the [repository](https://github.com/thomaszwagerman/tz_web_distill) on my page.
+I am on [Twitter](https://twitter.com/thomzwa) and [LinkedIn](https://www.linkedin.com/in/thomaszwagerman/). I also have my own [website](https://thomaszwagerman.co.uk/), which is still under development and you can find the [repository](https://github.com/thomaszwagerman/zwageR) on my page.
 
 ## :books: Resources I use:
 My first stepts in R were at the [Coding Club](https://ourcodingclub.github.io/). 
