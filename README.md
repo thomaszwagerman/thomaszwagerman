@@ -34,6 +34,7 @@ A list of reference books I use frequently in no particular order:
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) by Colin Gillespie and Robin Lovelace.
 * [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
 * [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/index.html) by Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard.
-* [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
+* [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad and Jannes Muenchow.
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund.
 * [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney.
+* [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) (Python) by Ryan Abernathey, Kerry Key, Tim Crone, and Julius Busecke. 
