@@ -2,7 +2,7 @@
 
 ## Hi there :wave:,
 
-My name is Thomas Zwagerman. I'm an environmental scientist and R developer, and currently on a little break from data science and software development!
+My name is Thomas Zwagerman. I'm a **Research Software Engineer** at the [British Antarctic Survey](https://www.bas.ac.uk/).
 
 I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/), where I developed tools and processes for the automated processing and quality assurance of air quality and climate change datasets, as well as developed interactive dissemination tools and reports for customers and stakeholders. I have also worked as a **Data Intelligence Officer** at the [Suffolk County Council](https://www.suffolk.gov.uk/), where I maintained the [SCC Planning](https://github.com/SCC-Planning) organisation on Github.
 
