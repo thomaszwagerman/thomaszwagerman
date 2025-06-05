@@ -6,12 +6,6 @@ I currently work on the [Autonomous Marine Operations Planning](https://www.bas.
 
 I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/). I have also worked as a **Data Intelligence Officer** at the [Suffolk County Council](https://www.suffolk.gov.uk/), where I maintained the [SCC Planning](https://github.com/SCC-Planning) organisation on Github.
 
-## :building_construction: Currently under construction:
-(mostly for my own benefit):
-* [model ensembler](https://github.com/environmental-forecasting/model-ensembler)
-* [WAVIhpc](https://github.com/alextbradley/WAVIhpc)
-* [AMOP](https://github.com/bas-amop)
-
 ## :books: Resources I use:
 My first stepts in R were at the [Coding Club](https://ourcodingclub.github.io/). 
 
