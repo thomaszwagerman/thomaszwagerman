@@ -1,6 +1,6 @@
 ## Hi there :wave:,
 
-My name is Thomas Zwagerman. I'm a **Research Software Engineer** at the [British Antarctic Survey](https://www.bas.ac.uk/).
+My name is Thomas Zwagerman. I'm a **Senior Research Software Engineer** at the [British Antarctic Survey](https://www.bas.ac.uk/).
 
 I currently work on the [Autonomous Marine Operations Planning](https://www.bas.ac.uk/project/autonomous-marine-operations-planning/) project, and on enhancing model ensembling of [WAVI](https://github.com/RJArthern/WAVI.jl?tab=readme-ov-file), an ice sheet model. This includes maintaining the [Github organisation for WAVI](https://github.com/WAVI-ice-sheet-model). I mostly use Python, R and Julia.
 
