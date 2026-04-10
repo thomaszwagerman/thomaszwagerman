@@ -11,4 +11,4 @@ I'm currently working on:
 
 I mostly use Python, Julia, R, and React/TypeScript.
 
-I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/). I have also worked as a **Data Intelligence Officer** at the [Suffolk County Council](https://www.suffolk.gov.uk/), where I maintained the [SCC Planning](https://github.com/SCC-Planning) organisation on Github.
+I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/). I have also worked as a **Data Intelligence Officer** at the [Suffolk County Council](https://www.suffolk.gov.uk/).
