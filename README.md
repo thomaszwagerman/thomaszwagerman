@@ -2,6 +2,9 @@
 
 My name is Thomas Zwagerman. I'm a **Senior Research Software Engineer** at the [British Antarctic Survey](https://www.bas.ac.uk/).
 
-I currently work on the [Autonomous Marine Operations Planning](https://www.bas.ac.uk/project/autonomous-marine-operations-planning/) project, and on enhancing model ensembling of [WAVI](https://github.com/RJArthern/WAVI.jl?tab=readme-ov-file), an ice sheet model. This includes maintaining the [Github organisation for WAVI](https://github.com/WAVI-ice-sheet-model). I mostly use Python, R and Julia.
+I currently work on [Logist AI for environmentally aware decision support
+]([https://www.bas.ac.uk/project/autonomous-marine-operations-planning/](https://www.bas.ac.uk/project/logist-ai-for-environmentally-aware-decision-support/)) project, [Greenland Ice sheet to AtlaNtic Tipping points from ice loss (GIANT)](https://www.bas.ac.uk/project/giant/), and [Autonomous phase-sensitive Radio Echo Sounder (ApRES) and groundwater](https://www.bas.ac.uk/project/apres-and-groundwater/).
+
+I mostly use Python, Julia, R, and React/TypeScript.
 
 I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/). I have also worked as a **Data Intelligence Officer** at the [Suffolk County Council](https://www.suffolk.gov.uk/), where I maintained the [SCC Planning](https://github.com/SCC-Planning) organisation on Github.
