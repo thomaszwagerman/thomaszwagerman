@@ -9,6 +9,6 @@ I'm currently working on:
 * [Greenland Ice sheet to AtlaNtic Tipping points from ice loss (GIANT)](https://www.bas.ac.uk/project/giant/)
 * [Autonomous phase-sensitive Radio Echo Sounder (ApRES) and groundwater](https://www.bas.ac.uk/project/apres-and-groundwater/)
 
-I mostly use Python, Julia, R, and React/TypeScript.
+I mostly use Python, Julia, and R.
 
 I previously worked as an **Environmental Data Scientist** and as a **Spatial Data Analyst** at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/). I have also worked as a **Data Intelligence Officer** at the [Suffolk County Council](https://www.suffolk.gov.uk/).
